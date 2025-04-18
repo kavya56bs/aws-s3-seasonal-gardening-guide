@@ -5,17 +5,26 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Seasonal Gardening Guide</title>
     <link rel="stylesheet" href="styles.css">
+    <script src="script.js"></script>
 </head>
 <body>
     <header>
         <h1>Seasonal Gardening Guide</h1>
         <nav>
-            <ul>
+            <!--<ul id="plantList">
                 <li><a href="seasons/spring.html">Spring</a></li>
                 <li><a href="seasons/summer.html">Summer</a></li>
                 <li><a href="seasons/autumn.html">Autumn</a></li>
                 <li><a href="seasons/winter.html">Winter</a></li>
-            </ul>
+            </ul> -->
+            <select id="seasonSelect">
+                <option value="">Select a Season</option>
+                <option value="Spring">Spring</option>
+                <option value="Summer">Summer</option>
+                <option value="Autumn">Autumn</option>
+                <option value="Winter">Winter</option>
+            </select>
+            <ul id="plantList"></ul>
         </nav>
     </header>
 
