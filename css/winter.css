@@ -1,19 +1,19 @@
 body {
-	font-family: 'Poppins', sans-serif;
-    background-image: url('../images/spring.jpg');
+    font-family: 'Poppins', sans-serif;
+	background-image: url('../images/winter.jpg');
     background-size: cover;
     background-position: center;
-    color: #2d6217;
+    color: #1e3a5f;
 }
 
 .season-content {
-    background-color: rgba(255, 255, 255, 0.9);
+    background-color: rgba(240, 248, 255, 0.9);
     padding: 20px;
     border-radius: 10px;
 }
 
 header nav a {
-	color: #2d6217;
+	color: #1e3a5f;
 }
 
 header {
