@@ -1,6 +1,0 @@
-[
-    {"name": "Tomatoes", "season": "Spring", "sunlight": "Full Sun"},
-    {"name": "Lavender", "season": "Summer", "sunlight": "Partial Sun"},
-    {"name": "Pumpkins", "season": "Autumn", "sunlight": "Full Sun"},
-    {"name": "Thyme", "season": "Winter", "sunlight": "Partial Sun"}
-]
